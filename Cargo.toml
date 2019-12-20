@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+    "class_reader",
+    "class_commons",
+    "interpreter",
+    "jni",
+    "runtime",
+]
