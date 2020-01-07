@@ -1,3 +1,6 @@
+pub mod class_file;
+pub mod constants;
+
 #[cfg(test)]
 mod tests {
     #[test]
